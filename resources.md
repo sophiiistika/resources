@@ -5,7 +5,7 @@ https://www.instagram.com/21lessons/
 
 http://seidenberg.pace.edu/wic/women-in-programming.html
 
-https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
+https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e
 
 
 ## Webdev
