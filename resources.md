@@ -18,5 +18,11 @@ http://csszengarden.com/
 https://internetingishard.com/
 
 
+## Networks
+https://queue.acm.org/detail.cfm?id=3028689
+
+https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/
+
+
 ## Kubernetes
 https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/
