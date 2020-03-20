@@ -7,6 +7,8 @@ http://seidenberg.pace.edu/wic/women-in-programming.html
 
 https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e
 
+https://ooni.org/support/glossary
+
 
 ## Webdev
 https://developer.mozilla.org/en-US/docs/Web
